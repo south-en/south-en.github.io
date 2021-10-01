@@ -8,64 +8,63 @@
     <language>en-us</language>
     <lastBuildDate>Mon, 12 Feb 2018 15:37:57 +0700</lastBuildDate><atom:link href="https://south-en.github.io/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Data integration</title>
-      <link>https://south-en.github.io/services/integration/</link>
+      <title>Procedures and Standards</title>
+      <link>https://south-en.github.io/services/implementation/</link>
       <pubDate>Sun, 18 Nov 2018 12:33:46 +1000</pubDate>
       
-      <guid>https://south-en.github.io/services/integration/</guid>
-      <description>At no charge, we process projects&#39; schedules, risk registers, and changelogs. After a standardization and anonymization process, we integrate the data into our database. A greater universe of projects contributes to better understanding the drivers of your projects performance.
-The data of your company and your projects remains anonymous and safe.
- First step: Wrangling projects&#39; data. All Companies have their toolsets, templates, and project controls procedures. We process the documents and files containing the information that our models need:</description>
+      <guid>https://south-en.github.io/services/implementation/</guid>
+      <description>We work with your team to adjust Project Controls and risk management processes, procedures and standards.
+Do not start from scratch: We provide and quickly implement processes, procedures and templates, including state-of-the-art business intelligence tools.
+Management culture: We help your contractors and subsidiaries to meet your parent company&amp;rsquo;s management systems needs.
+Project constrains: We help you identify and implement the adjustment that specific projects conditions make necessary in your management systems.</description>
     </item>
     
     <item>
-      <title>Descriptive analytics</title>
-      <link>https://south-en.github.io/services/descriptive/</link>
+      <title>Projects Controls set up</title>
+      <link>https://south-en.github.io/services/setup/</link>
       <pubDate>Wed, 28 Nov 2018 15:15:34 +1000</pubDate>
       
-      <guid>https://south-en.github.io/services/descriptive/</guid>
+      <guid>https://south-en.github.io/services/setup/</guid>
       <description>We provide standard high-level descriptive analytics at no charge. Customization and deep-dive options are available.
    Projects&#39; delay distribution.     Distributions decomposition by uncertainty and impact of risks.     High-level risks and historical influence of variables in projects performance.     Descriptive analysis of risks and uncertainty at lower levels (custom).     Statistics and level of confidence (custom).</description>
     </item>
     
     <item>
-      <title>Modern Hospital</title>
-      <link>https://south-en.github.io/demo/modern-hospital/</link>
+      <title>Non-conventional O&amp;G</title>
+      <link>https://south-en.github.io/demo/shaleoil/</link>
       <pubDate>Sun, 18 Nov 2018 12:33:46 +1000</pubDate>
       
-      <guid>https://south-en.github.io/demo/modern-hospital/</guid>
-      <description>Agitabitur signa lympha; non lacunae, mox cum tumulis quoque triste dictis. Ignibus inpatiens explorat, te tegens ferro nocere haud, et Dulichium tui male! Quo sed fuit flexit et hic die solido, gloria?
-Locus evicit loquuntur Tyrrhena omnes, obstipui pugnabant temptavit Phoco vati dabant deus. Memorata haberet sepulcrales gentisque dum sic, in flumina templa! Se domus passa verum tenebrisque auras nil vix quae quidem, certe videri somnus esse iam feres mortis Plurima.</description>
+      <guid>https://south-en.github.io/demo/shaleoil/</guid>
+      <description>A</description>
     </item>
     
     <item>
-      <title>Predictive analytics</title>
-      <link>https://south-en.github.io/services/predictive/</link>
+      <title>Project controls team</title>
+      <link>https://south-en.github.io/services/management/</link>
       <pubDate>Sun, 18 Nov 2018 12:33:46 +1000</pubDate>
       
-      <guid>https://south-en.github.io/services/predictive/</guid>
+      <guid>https://south-en.github.io/services/management/</guid>
       <description>Custom predictive analytics for portfolios, projects and critical milestones. Take advantage of a rich and transversal database.
    Adjusted level of confidence for distribution fits.     Completion probabilities, P50, P80.     Sensitivity analysis.     Deep-dive analysis for key drivers.     Influence of rare risk events.     </description>
     </item>
     
     <item>
       <title>Prescriptive analytics</title>
-      <link>https://south-en.github.io/services/prescriptive/</link>
+      <link>https://south-en.github.io/services/qra/</link>
       <pubDate>Wed, 28 Nov 2018 15:15:26 +1000</pubDate>
       
-      <guid>https://south-en.github.io/services/prescriptive/</guid>
+      <guid>https://south-en.github.io/services/qra/</guid>
       <description>To reduce bias in the decision-making process, we are developing vcubo.ai, an AI agent trained with the inputs and results of the decisions taken in past projects.
  </description>
     </item>
     
     <item>
-      <title>Cargo Terminal</title>
-      <link>https://south-en.github.io/demo/cargo-terminal/</link>
+      <title>Refinery</title>
+      <link>https://south-en.github.io/demo/refinery/</link>
       <pubDate>Sun, 18 Nov 2018 12:33:46 +1000</pubDate>
       
-      <guid>https://south-en.github.io/demo/cargo-terminal/</guid>
-      <description>Agitabitur signa lympha; non lacunae, mox cum tumulis quoque triste dictis. Ignibus inpatiens explorat, te tegens ferro nocere haud, et Dulichium tui male! Quo sed fuit flexit et hic die solido, gloria?
-Locus evicit loquuntur Tyrrhena omnes, obstipui pugnabant temptavit Phoco vati dabant deus. Memorata haberet sepulcrales gentisque dum sic, in flumina templa! Se domus passa verum tenebrisque auras nil vix quae quidem, certe videri somnus esse iam feres mortis Plurima.</description>
+      <guid>https://south-en.github.io/demo/refinery/</guid>
+      <description>   </description>
     </item>
     
     <item>
@@ -86,15 +85,6 @@ Contact us      </description>
       
       <guid>https://south-en.github.io/demo2/</guid>
       <description>About Heading  </description>
-    </item>
-    
-    <item>
-      <title>Work</title>
-      <link>https://south-en.github.io/demo/dex/</link>
-      <pubDate>Sat, 10 Feb 2018 11:52:18 +0700</pubDate>
-      
-      <guid>https://south-en.github.io/demo/dex/</guid>
-      <description></description>
     </item>
     
   </channel>

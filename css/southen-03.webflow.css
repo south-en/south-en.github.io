@@ -1089,6 +1089,9 @@ label {
 }
 
 .navbar-collapse {
+  position: relative;
+  z-index: 1000;
+  background-color: #fff;
   grid-column-gap: 15px;
   grid-row-gap: 15px;
   color: #000;
@@ -2618,7 +2621,7 @@ label {
   }
 
   .terms-small-heading {
-    font-size: 50px;
+    font-size: 35px;
   }
 
   .hs-lottie-circle {
@@ -2725,22 +2728,23 @@ label {
     height: 100px;
   }
 
+  .ha-content {
+    flex-flow: column;
+  }
+
   .ha-wrapper {
     grid-column-gap: 25px;
     grid-row-gap: 25px;
   }
 
-  .ha-heading {
-    font-size: min(15vw, 150px);
+  .hs-circle {
+    object-fit: contain;
+    width: 100%;
   }
 
-  .hs-content {
-    padding-left: 10px;
-    padding-right: 10px;
-  }
-
-  .home-portfolio {
-    grid-row-gap: 75px;
+  .hs-gradient {
+    width: 400px;
+    height: 400px;
   }
 
   .hp-image._1 {
@@ -2751,22 +2755,13 @@ label {
     height: 350px;
   }
 
-  .hp-heading {
-    font-size: min(10vw, 75px);
-  }
-
   .hp-inner-heading {
-    font-size: min(5vw, 50px);
-  }
-
-  .home-venture {
-    grid-column-gap: 100px;
-    grid-row-gap: 100px;
+    padding-top: 20px;
   }
 
   .hv-header {
-    grid-column-gap: 25px;
-    grid-row-gap: 25px;
+    grid-column-gap: 50px;
+    grid-row-gap: 50px;
   }
 
   .hv-wrapper {

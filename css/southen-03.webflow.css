@@ -875,18 +875,18 @@ label {
 
 .footer-carousel-wrapper {
   display: flex;
-  width: 200%;
+  width: fit-content;  /* Changed from 200% to fit-content */
   animation: scroll 30s linear infinite;
 }
 
-/*@keyframes scroll {
+@keyframes scroll {
   0% {
     transform: translateX(0);
   }
   100% {
     transform: translateX(-50%);
   }
-}*/
+}
 
 .footer-carousel-wrapper:hover {
   animation-play-state: paused !important;

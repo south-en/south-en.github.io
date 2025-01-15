@@ -876,7 +876,7 @@ label {
 .footer-carousel-wrapper {
   display: flex;
   width: 200%;
-  animation: scroll 10s linear infinite;
+  animation: scroll 30s linear infinite;
 }
 
 @keyframes scroll {

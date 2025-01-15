@@ -846,6 +846,7 @@ label {
   font-weight: 300;
 }
 
+/*
 .footer-carousel {
   grid-column-gap: 10px;
   grid-row-gap: 10px;
@@ -863,6 +864,33 @@ label {
   margin-top: -36px;
   display: flex;
 }
+*/
+
+/* Footer Carousel Animation */
+.footer-carousel {
+  overflow: hidden;
+  width: 100%;
+}
+
+.footer-carousel-wrapper {
+  display: flex;
+  animation: scroll 20s linear infinite;
+}
+
+@keyframes scroll {
+  0% {
+    transform: translateX(0);
+  }
+  100% {
+    transform: translateX(-50%);
+  }
+}
+
+.footer-carousel-wrapper:hover {
+  animation-play-state: paused;
+}
+/* End of the modified code */
+
 
 .footer-image._1 {
   filter: grayscale();

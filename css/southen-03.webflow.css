@@ -870,7 +870,7 @@ label {
 .footer-carousel {
   overflow: hidden;
   width: 100%;
-  position: relative;
+  position: absolute;
 }
 
 .footer-carousel-wrapper {

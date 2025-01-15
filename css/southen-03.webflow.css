@@ -876,7 +876,6 @@ label {
 .footer-carousel-wrapper {
   display: flex;
   width: fit-content;  /* Changed from 200% to fit-content */
-  animation: scroll 30s linear infinite;
 }
 
 @keyframes scroll {

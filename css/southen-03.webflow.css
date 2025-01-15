@@ -870,11 +870,13 @@ label {
 .footer-carousel {
   overflow: hidden;
   width: 100%;
+  position: relative;
 }
 
 .footer-carousel-wrapper {
   display: flex;
   animation: scroll 10s linear infinite;
+  width: 200%;
 }
 
 @keyframes scroll {

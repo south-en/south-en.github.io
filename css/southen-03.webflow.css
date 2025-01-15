@@ -895,8 +895,9 @@ label {
 .footer-image._1 {
   filter: grayscale();
   object-fit: cover;
-  width: 360px;
-  height: 350px;
+  width: 410px;
+  height: 220px;
+  margin-bottom: 30px;
 }
 
 .footer-image._2 {
@@ -910,17 +911,17 @@ label {
 .footer-image._3 {
   filter: grayscale();
   object-fit: cover;
-  width: 370px;
-  height: 386px;
-  margin-bottom: 0;
+  width: 410px;
+  height: 220px;
+  margin-bottom: 30px;
 }
 
 .footer-image._4 {
   filter: grayscale();
   object-fit: cover;
-  width: 470px;
-  height: 330px;
-  margin-bottom: 0;
+  width: 410px;
+  height: 220px;
+  margin-bottom: 30px;
 }
 
 .footer-middle {
